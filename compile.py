@@ -10,7 +10,7 @@ def format_lore(text):
         text = re.sub(r'\n', '', text)
     else:
         text = re.sub(r'\n', '\\\\n', text)
-        text = re.sub(r'"', '\\\\"', text)
+    text = re.sub(r'"', '\\\\"', text)
     return text
 
 
