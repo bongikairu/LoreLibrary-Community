@@ -1,6 +1,7 @@
 title=Westfall Lighthouse
 x=30.43
 y=85.71
+id=3
 html=no
 -----
 The Westfall Lighthouse sits just off the coast on the far southern edge of Westfall.

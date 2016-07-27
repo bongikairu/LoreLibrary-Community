@@ -2,6 +2,7 @@ title=Ameth'Aran
 x=44.24
 y=59
 scale=2
+id=7
 html=yes
 -----
 <HTML><BODY><H1 align="CENTER">The Lay of Ameth'Aran</H1><P><BR/>

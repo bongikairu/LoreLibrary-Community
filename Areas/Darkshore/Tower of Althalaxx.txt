@@ -2,6 +2,7 @@ title=Tower of Althalaxx
 x=58.09
 y=23.84
 scale=0.5
+id=2
 html=no
 -----
 In the time of the Great Sundering, Queen Azshara brought her favored servitors, those of the Highborne, to the twin towns of Ameth'Aran and Bashal'Aran.

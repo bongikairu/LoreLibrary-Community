@@ -1,6 +1,7 @@
 title=Trade Quarter
 x=68.6
 y=48.03
+id=8
 html=no
 -----
 As the name implies, the Trade Quarter is the central hub of trade of the Undercity.

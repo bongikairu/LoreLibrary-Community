@@ -2,6 +2,7 @@ title=Wyrmscar Island
 x=72.84
 y=20.86
 scale=2
+id=3
 html=no
 -----
 Wyrmscar Island is now home to bones, the restless spirits of slain green whelplings, and the ghost of Prince Toreth, a night elf prince of Loreth'Aran.

@@ -1,6 +1,7 @@
 title=Heroes' Vigil
 x=74.45
 y=51.63
+id=7
 html=no
 -----
 Heroes' Vigil is the central area of the Stone Cairn Lake island in eastern Elwynn Forest.

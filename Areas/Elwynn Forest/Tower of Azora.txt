@@ -1,6 +1,7 @@
 title=Tower of Azora
 x=64.94
 y=69.96
+id=6
 html=no
 -----
 The Tower of Azora is a small mage tower in eastern Elwynn Forest.

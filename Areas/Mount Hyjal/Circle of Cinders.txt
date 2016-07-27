@@ -1,6 +1,7 @@
 title=Circle of Cinders
 x=43.9
 y=27
+id=2
 html=no
 -----
 When Ragnaros was ripped from the Elemental Plane by the Sorcerer-Thane Thaurissan, several subjects from the Firelands followed in his wake.

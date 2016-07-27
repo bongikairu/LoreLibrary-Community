@@ -1,6 +1,7 @@
 title=Kharanos
 x=53.49
 y=51.13
+id=2
 html=no
 -----
 Kharanos is a bustling little town nestled among the mountain peaks of Dun Morogh. The town is surrounded by the stark wintry wilds of Dun Morogh, so adventure is a common commodity.

@@ -1,6 +1,7 @@
 title=Helm's Bed Lake
 x=83.98
 y=51.93
+id=5
 html=no
 -----
 Helm's Bed Lake is a smallish lake in southeastern Dun Morogh.

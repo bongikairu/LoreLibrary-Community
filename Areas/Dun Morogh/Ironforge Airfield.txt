@@ -2,6 +2,7 @@ title=Ironforge Airfield
 x=77.69
 y=22.94
 scale=1.5
+id=7
 html=no
 -----
 The Ironforge Airfield is an airfield located in a high mountain valley northeast of the dwarven capital city of Ironforge.

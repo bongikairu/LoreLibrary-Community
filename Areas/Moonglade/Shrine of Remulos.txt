@@ -1,5 +1,6 @@
 title=Shrine of Remulos
 x=35.9
 y=41.55
+id=3
 html=no
 -----

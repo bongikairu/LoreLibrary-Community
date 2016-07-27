@@ -2,6 +2,7 @@ title=Commons
 x=30.68
 y=66.7
 scale=2
+id=6
 html=no
 -----
 The area known as the Commons is the main thoroughfare for trade in the city of Ironforge.

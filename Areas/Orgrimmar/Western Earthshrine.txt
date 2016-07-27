@@ -1,6 +1,7 @@
 title=Western Earthshrine
 x=50.05
 y=37.84
+id=3
 html=no
 -----
 The Western Earthshrine is a ritual circle erected by the Earthen Ring for use by the Horde.

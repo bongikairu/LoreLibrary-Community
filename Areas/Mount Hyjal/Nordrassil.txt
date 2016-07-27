@@ -2,6 +2,7 @@ title=Nordrassil
 x=62.66
 y=24.25
 scale=2
+id=1
 html=no
 -----
 Nordrassil, meaning "Crown of the Heavens" in Darnassian, was grown from an acorn of the recently lost Mother Tree, G'Hanir, by the great dragon Alexstrasza in the waters of the newly reborn Well of Eternity on the sacred Mount Hyjal.

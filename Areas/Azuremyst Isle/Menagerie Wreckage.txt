@@ -1,6 +1,7 @@
 title=Menagerie Wreckage
 x=54.98
 y=21.29
+id=7
 html=no
 -----
 The Menagerie Wreckage is a part of the Exodar that contained captured animals from Draenor.

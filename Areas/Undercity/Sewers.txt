@@ -1,6 +1,7 @@
 title=Sewers
 x=45.38
 y=43.82
+id=7
 html=no
 -----
 The Sewers are another way in and out of the city, which is guarded by abominations.

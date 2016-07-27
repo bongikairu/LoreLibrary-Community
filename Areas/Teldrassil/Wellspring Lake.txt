@@ -1,6 +1,7 @@
 title=Wellspring Lake
 x=44.37
 y=36.7
+id=2
 html=no
 -----
 Wellspring Lake is a small lake northeast of Darnassus and southeast of The Oracle Glade in Teldrassil.

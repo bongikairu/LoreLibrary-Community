@@ -2,6 +2,7 @@ title=Vector Coil
 x=14.72
 y=53.57
 scale=2
+id=8
 html=no
 -----
 The Vector Coil is a power core portion of the Exodar that crashed into western Bloodmyst Isle.

@@ -2,6 +2,7 @@ title=Tinker Town
 x=70.63
 y=49.45
 scale=2
+id=2
 html=no
 -----
 Originally, Tinker Town was just a small quarter of the city for gnomes visiting from Gnomeregan to use.

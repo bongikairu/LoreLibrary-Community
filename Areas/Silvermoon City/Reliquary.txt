@@ -1,6 +1,7 @@
 title=Reliquary
 x=81.33
 y=63.88
+id=3
 html=no
 -----
 The Reliquary is the headquarters of the blood elf organization zith the same name.

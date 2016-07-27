@@ -1,6 +1,7 @@
 title=Stillpine Hold
 x=45.36
 y=20.63
+id=6
 html=no
 -----
 Stillpine Hold is a small settlement and the home to the Furbolg Stillpine tribe.

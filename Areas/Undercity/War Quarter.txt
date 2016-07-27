@@ -1,6 +1,7 @@
 title=War Quarter
 x=51.96
 y=23.15
+id=6
 html=no
 -----
 The War Quarter is where the Forsaken military is based.

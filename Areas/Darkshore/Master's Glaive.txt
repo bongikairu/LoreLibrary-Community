@@ -2,6 +2,7 @@ title=Master's Glaive
 x=40.27
 y=85.13
 scale=1.5
+id=9
 html=no
 -----
 The Explorers' League members excavating Remtravel's Excavation discovered tablets that explains the history of the Master's Glaive.

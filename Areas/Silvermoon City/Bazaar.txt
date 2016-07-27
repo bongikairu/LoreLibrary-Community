@@ -1,6 +1,7 @@
 title=Bazaar
 x=61.18
 y=70.69
+id=4
 html=no
 -----
 The Bazaar is Silvermoon's main hub of trade.

@@ -1,6 +1,7 @@
 title=Everlook
 x=59.72
 y=50.43
+id=6
 html=no
 -----
 Everlook is a trading post run by the goblins of the Steamwheedle Cartel.

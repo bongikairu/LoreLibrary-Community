@@ -2,6 +2,7 @@ title=Shrine of Aviana
 x=43.96
 y=46.16
 scale=2
+id=4
 html=no
 -----
 Shrine of Aviana is a shrine built to honor the winged demigoddess Aviana.

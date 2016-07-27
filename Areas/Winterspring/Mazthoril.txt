@@ -1,6 +1,7 @@
 title=Mazthoril
 x=55.09
 y=64
+id=7
 html=no
 -----
 Before the Cataclysm, Mazthoril was under the control of the blue dragonflight lead by Haleh.  

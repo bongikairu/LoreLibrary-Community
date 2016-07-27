@@ -1,6 +1,7 @@
 title=Hidden Grove
 x=62.24
 y=25.65
+id=4
 html=no
 -----
 The Hidden Grove is home to the nearby moonkin who will protect it against trespassers.

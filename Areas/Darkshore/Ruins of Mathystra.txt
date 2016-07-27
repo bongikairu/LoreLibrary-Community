@@ -2,6 +2,7 @@ title=Ruins of Mathystra
 x=60.87
 y=19.42
 scale=2
+id=3
 html=no
 -----
 Mathystra used to be a night elven city before the Great Sundering, but it was utterly decimated by the destruction of the Well of Eternity, and has long since been abandoned by the night elves in favor of the smaller coastal villages further south.

@@ -2,6 +2,7 @@ title=Runestone Shan'dor
 x=55.35
 y=84.18
 scale=0.5
+id=9
 html=no
 -----
 Runestone Shan'dor is one of the four remaining runestones in Quel'Thalas, located at the southern edge of Eversong Woods.

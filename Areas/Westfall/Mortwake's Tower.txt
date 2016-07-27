@@ -1,6 +1,7 @@
 title=Mortwake's Tower
 x=70.61
 y=74.64
+id=6
 html=no
 -----
 Mortwake's Tower, formerly Klaven's Tower, named after its rogue Defias master Klaven Mortwake, lies at the southeastern edge of Westfall near the river.

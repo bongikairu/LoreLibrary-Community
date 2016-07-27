@@ -1,6 +1,7 @@
 title=East Sanctum
 x=54.24
 y=71.03
+id=7
 html=no
 -----
 The East Sanctum is one of three arcane sanctums in Eversong Woods.

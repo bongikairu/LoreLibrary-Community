@@ -2,6 +2,7 @@ title=Runestone Falithas
 x=44
 y=85.7
 scale=0.5
+id=10
 html=no
 -----
 Runestone Falithas is one of the four remaining runestones in Quel'Thalas, located on the southern edge of Eversong Woods.

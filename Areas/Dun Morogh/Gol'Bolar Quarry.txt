@@ -2,6 +2,7 @@ title=Gol'Bolar Quarry
 x=76.25
 y=53.4
 scale=0.5
+id=4
 html=no
 -----
 Gol'Bolar Quarry was once a dwarven excavation site but, in the middle of a dig, the dwarves uncovered one of the underground caverns belonging to the troggs.

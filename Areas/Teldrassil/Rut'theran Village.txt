@@ -1,6 +1,7 @@
 title=Rut'theran Village
 x=55.48
 y=90.23
+id=6
 html=no
 -----
 Rut'theran Village is an outpost port for the night elf city of Darnassus, located at the very bottom of the great tree Teldrassil.

@@ -1,6 +1,7 @@
 title=Sunfury Spire
 x=55.66
 y=22.38
+id=1
 html=no
 -----
 Sunfury Spire is Silvermoon City's palace.

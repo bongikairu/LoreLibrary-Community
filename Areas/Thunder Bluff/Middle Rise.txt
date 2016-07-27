@@ -1,6 +1,7 @@
 title=Middle Rise
 x=46.81
 y=39.48
+id=4
 html=no
 -----
 The Middle Rise is Thunder Bluff's tradeskill area.

@@ -2,6 +2,7 @@ title=Deadwood Village
 x=48.13
 y=88.99
 scale=3
+id=3
 html=no
 -----
 Like most of their kin, the Furbolg of the Deadwood tribe have been corrupted and are hostile.

@@ -1,6 +1,7 @@
 title=Lor'danel
 x=50.97
 y=19.81
+id=1
 html=no
 -----
 Lor'danel is a seaside night elf settlement in northern Darkshore, founded by refugees from Auberdine after its destruction by the Shattering.

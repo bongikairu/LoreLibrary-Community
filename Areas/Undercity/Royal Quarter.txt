@@ -1,6 +1,7 @@
 title=Royal Quarter
 x=56.94
 y=91.23
+id=2
 html=no
 -----
 The Royal Quarter of the Undercity contains the throne room where the Dark Lady Sylvanas Windrunner controls her burgeoning empire of undeath.

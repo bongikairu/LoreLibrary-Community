@@ -1,6 +1,7 @@
 title=Vault of Lights
 x=33.64
 y=66.34
+id=1
 html=no
 -----
 The Vault of Lights is the favorite haunt of the Prophet Velen.

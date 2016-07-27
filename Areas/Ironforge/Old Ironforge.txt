@@ -1,6 +1,7 @@
 title=Old Ironforge
 x=44.28
 y=51.96
+id=10
 html=no
 -----
 After Magni Bronzebeard received earthen-related stone tablets from Brann in an attempt to learn about the pre-Cataclysm disturbances, Magni ordered the sealed gates of Old Ironforge to be opened for a ritual.

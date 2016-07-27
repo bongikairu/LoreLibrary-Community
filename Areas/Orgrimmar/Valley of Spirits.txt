@@ -1,6 +1,7 @@
 title=Valley of Spirits
 x=33.92
 y=68.27
+id=8
 html=no
 -----
 Many parts of this valley sunk due to the Shattering and caused the large pool of water at the southern end to flow into the rest of the valley flooding a majority of it.

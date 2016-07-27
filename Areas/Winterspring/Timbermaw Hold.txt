@@ -2,6 +2,7 @@ title=Timbermaw Hold
 x=21.23
 y=46.11
 scale=0.5
+id=1
 html=no
 -----
 When the corruption of the Burning Legion crept into the sacred forests of Kalimdor, the furbolgs fell under the corruptive influence of the Burning Legion.

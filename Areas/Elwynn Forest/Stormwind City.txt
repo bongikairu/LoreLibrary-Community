@@ -1,6 +1,7 @@
 title=Stormwind City
 x=32.2
 y=49.58
+id=1
 html=yes
 -----
 <HTML><BODY><P>Stormwind City is the capital city of the kingdom of Stormwind and the largest human city of Azeroth.<BR/>

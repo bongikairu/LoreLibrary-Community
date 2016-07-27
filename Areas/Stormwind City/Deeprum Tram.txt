@@ -2,6 +2,7 @@ title=Deeprum Tram
 x=67.69
 y=33.39
 scale=2
+id=4
 html=no
 -----
 King Bronzebeard turned to Azeroth's most esteemed engineer, High Tinker Gelbin Mekkatorque, who immediately began drafting designs for a grand subterranean railway system that would link Stormwind and Ironforge.

@@ -1,6 +1,7 @@
 title=Spirit Rise
 x=27.34
 y=23.12
+id=6
 html=no
 -----
 Spirit Rise is the center for shamanistic studies in Thunder Bluff.

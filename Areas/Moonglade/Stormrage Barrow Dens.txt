@@ -2,6 +2,7 @@ title=Stormrage Barrow Dens
 x=68.03
 y=60.26
 scale=4
+id=2
 html=no
 -----
 The Stormrage Barrow Dens are the sacred Barrow Dens of Moonglade where many of the Night Elf Druids slumber in the Emerald Dream.

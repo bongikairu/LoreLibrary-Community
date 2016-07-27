@@ -2,6 +2,7 @@ title=Nazzivian
 x=39.34
 y=78.7
 scale=3
+id=9
 html=no
 -----
 Nazzivian is an extensive Nazzivus satyr encampment located in southwestern Bloodmyst Isle.

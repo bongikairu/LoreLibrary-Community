@@ -2,6 +2,7 @@ title=Frostwhisper Gorge
 x=60.61
 y=87.65
 scale=4
+id=8
 html=no
 -----
 Frostwhisper Gorge is a canyon in southern Winterspring, just north of Darkwhisper Gorge.

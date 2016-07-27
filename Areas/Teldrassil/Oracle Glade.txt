@@ -2,6 +2,7 @@ title=Oracle Glade
 x=39.16
 y=29.89
 scale=0.5
+id=3
 html=no
 -----
 The Oracle Glade is a shrine in the northwestern area of Teldrassil.

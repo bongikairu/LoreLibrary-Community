@@ -2,6 +2,7 @@ title=Military Ward
 x=64.43
 y=79.04
 scale=2
+id=7
 html=no
 -----
 The Military Ward serves as the command center for the Ironforge Military, as well as a center for all things martial.

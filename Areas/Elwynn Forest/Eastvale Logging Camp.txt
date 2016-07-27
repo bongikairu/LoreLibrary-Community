@@ -1,6 +1,7 @@
 title=Eastvale Logging Camp
 x=80.9
 y=66.23
+id=8
 html=no
 -----
 Eastvale Logging Camp is located in the far east of Elwynn Forest, under the very shadow of Redridge Mountains north of the main road.

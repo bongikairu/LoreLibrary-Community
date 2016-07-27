@@ -2,6 +2,7 @@ title=Blood Watch
 x=54.89
 y=56.35
 scale=2
+id=1
 html=no
 -----
 Blood Watch is a forward outpost of the Hand of Argus, and main draenei settlement on Bloodmyst Isle.

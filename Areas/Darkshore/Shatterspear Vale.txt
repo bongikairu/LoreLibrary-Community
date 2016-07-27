@@ -2,6 +2,7 @@ title=Shatterspear Vale
 x=71.3
 y=18.86
 scale=2
+id=4
 html=no
 -----
 The Shatterspear trolls are friendly to the Horde and were originally neutral to the Alliance until the escalation of hostilities following Garrosh Hellscream's takeover as the new Warchief of the Horde.

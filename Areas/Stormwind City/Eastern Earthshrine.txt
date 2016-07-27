@@ -2,6 +2,7 @@ title=Eastern Earthshrine
 x=74.38
 y=18.42
 scale=2
+id=9
 html=no
 -----
 The Eastern Earthshrine is a ritual circle erected by the Earthen Ring for use by the Alliance.

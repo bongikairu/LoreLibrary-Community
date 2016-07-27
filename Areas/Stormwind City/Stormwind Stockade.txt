@@ -1,6 +1,7 @@
 title=Stormwind Stockade
 x=51.5
 y=68.31
+id=11
 html=no
 -----
 Stormwind Stockade is a high-security prison complex, hidden beneath the canal district of Stormwind City.

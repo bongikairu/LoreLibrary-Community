@@ -1,6 +1,7 @@
 title=Exodar
 x=37
 y=47
+id=1
 html=yes
 -----
 <HTML><BODY><P>The Exodar is the enchanted capital city of the draenei who chose to depart from Draenor.<BR/>

@@ -1,6 +1,7 @@
 title=Tor'Watha
 x=69.88
 y=72.56
+id=8
 html=no
 -----
 Tor'Watha is one of two forest troll areas of Eversong Woods. It is much larger than nearby Zeb'Watha.

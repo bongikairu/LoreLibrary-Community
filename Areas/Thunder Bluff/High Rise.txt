@@ -1,6 +1,7 @@
 title=High Rise
 x=56.04
 y=51.45
+id=5
 html=no
 -----
 The High Rise is the seat of Thunder Bluff's rule, and contains the grand tepee of Grand Chief Baine Bloodhoof.

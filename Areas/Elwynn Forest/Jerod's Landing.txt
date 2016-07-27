@@ -1,6 +1,7 @@
 title=Jerod's Landing
 x=48.35
 y=87.64
+id=5
 html=no
 -----
 Jerod's Landing is a boat landing on the Elwynn Forest bank of the Nazferiti River.

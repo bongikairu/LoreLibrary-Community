@@ -2,6 +2,7 @@ title=Grove of Aessina
 x=19.46
 y=37.46
 scale=1.5
+id=5
 html=no
 -----
 The Grove of Aessina is a small grove devoted to the greater wilderness spirit of Aessina.

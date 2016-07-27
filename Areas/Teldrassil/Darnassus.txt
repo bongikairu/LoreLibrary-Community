@@ -1,6 +1,7 @@
 title=Darnassus
 x=38.59
 y=47.55
+id=1
 html=yes
 -----
 <HTML><BODY><P>Darnassus is the capital city of the night elves of the Alliance.<BR/>

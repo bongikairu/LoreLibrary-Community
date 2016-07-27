@@ -1,6 +1,7 @@
 title=Cenarion Enclave
 x=41.57
 y=32.38
+id=3
 html=no
 -----
 The Cenarion Enclave is a magical place which the druids of Darnassus call home.

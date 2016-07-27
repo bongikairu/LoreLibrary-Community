@@ -2,6 +2,7 @@ title=Stormwind Cemetery
 x=45.62
 y=29.42
 scale=2
+id=3
 html=no
 -----
 Among those buried here is Queen Tiffin Wrynn, wife of King Varian.

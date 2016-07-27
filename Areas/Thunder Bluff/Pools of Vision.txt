@@ -1,6 +1,7 @@
 title=Pools of Vision
 x=30.3
 y=30.02
+id=7
 html=no
 -----
 The Pools of Vision were mysteriously being haunted by a powerful Earth Elemental.

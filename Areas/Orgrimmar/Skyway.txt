@@ -1,6 +1,7 @@
 title=Skyway
 x=49.42
 y=58.77
+id=4
 html=no
 -----
 Orgrimmar Skyway is the city's main connetion to places across Azeroth.

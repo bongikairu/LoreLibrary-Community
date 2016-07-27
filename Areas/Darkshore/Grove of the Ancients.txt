@@ -2,6 +2,7 @@ title=Grove of the Ancients
 x=45.22
 y=74.9
 scale=0.5
+id=8
 html=no
 -----
 The Grove of the Ancients is a sacred ruin of an old night elven temple, where Onu, an Ancient of Lore, resides.

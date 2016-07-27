@@ -2,6 +2,7 @@ title=Jaedenar
 x=35.92
 y=59.26
 scale=2
+id=1
 html=no
 -----
 Jaedenar is an area in Felwood that has been completely taken over by a sect of the Shadow Council.

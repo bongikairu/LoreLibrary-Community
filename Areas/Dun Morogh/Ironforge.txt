@@ -2,6 +2,7 @@ title=Ironforge
 x=60.38
 y=33.41
 scale=0.5
+id=3
 html=yes
 -----
 <HTML><BODY><P>Ironforge is the capital city of the dwarves, a member of the Alliance.<BR/>

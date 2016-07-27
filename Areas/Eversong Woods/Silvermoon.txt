@@ -2,6 +2,7 @@ title=Silvermoon
 x=56.66
 y=50.24
 scale=0.5
+id=1
 html=no
 -----
 The crown jewel of the blood elves is their capital of Silvermoon City, nestled in the Eversong Woods in their ancestral lands of Quel'Thalas.

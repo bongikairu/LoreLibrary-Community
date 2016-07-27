@@ -2,6 +2,7 @@ title=Ruins of Loreth'Aran
 x=61.29
 y=48.52
 scale=2
+id=5
 html=no
 -----
 The night elves who once inhabited this city were blessed by the Green dragonflight and its queen Ysera, and the Dragon Riders of Loreth'Aran rode these powerful green dragons into battle while also living alongside them.

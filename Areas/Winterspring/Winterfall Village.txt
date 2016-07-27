@@ -1,6 +1,7 @@
 title=Winterfall Village
 x=66.79
 y=48.84
+id=5
 html=no
 -----
 Winterfall Village is a large village of corrupted furbolgs in the far eastern area of Winterspring near Everlook.

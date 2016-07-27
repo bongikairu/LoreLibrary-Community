@@ -1,6 +1,7 @@
 title=Eye of the Vortex
 x=43.72
 y=53.53
+id=6
 html=no
 -----
 The Eye of The Vortex is the epicenter of the massive storm threatening to tear apart Darkshore.

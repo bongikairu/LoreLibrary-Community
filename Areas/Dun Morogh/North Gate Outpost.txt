@@ -2,6 +2,7 @@ title=North Gate Outpost
 x=91.12
 y=37.78
 scale=0.5
+id=6
 html=no
 -----
 The mountaineers stationed at the outpost are busily defending it from encroaching wildlife, and some dwarves have gone missing in the mountains in search of the more ferocious beasts.

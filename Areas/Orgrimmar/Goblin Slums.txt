@@ -1,6 +1,7 @@
 title=Goblin Slums
 x=40.11
 y=80.1
+id=7
 html=no
 -----
 The Goblin Slums is the new district in Orgrimmar for the goblin refugees of Kezan.

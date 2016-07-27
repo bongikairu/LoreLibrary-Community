@@ -1,6 +1,7 @@
 title=Apothecarium
 x=53.28
 y=74.68
+id=3
 html=no
 -----
 The Apothecarium is the home of the Royal Apothecary Society, a large-scale organization of undead dedicated to eradicating the "taint of humanity" from Lordaeron.

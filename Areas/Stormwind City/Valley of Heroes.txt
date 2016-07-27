@@ -1,6 +1,7 @@
 title=Valley of Heroes
 x=70.73
 y=85.77
+id=10
 html=no
 -----
 The Valley of Heroes is a valley that lies before Stormwind Gate. A bridge of stone crosses the narrow moat and is the first sight of all who enter. 

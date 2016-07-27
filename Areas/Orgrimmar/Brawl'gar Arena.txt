@@ -1,6 +1,7 @@
 title=Brawl'gar Arena
 x=70.34
 y=31.48
+id=2
 html=no
 -----
 In the Brawl'gar Arena creatures and fighters from all over Azeroth and Outland have been gathered to participate in bloody arena deathmatches with heroes of the Horde.

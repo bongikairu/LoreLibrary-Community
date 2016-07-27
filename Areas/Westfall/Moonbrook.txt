@@ -2,6 +2,7 @@ title=Moonbrook
 x=43.41
 y=69.47
 scale=2
+id=5
 html=no
 -----
 Prior to the coming of the orcs to Azeroth, Moonbrook served as the focal point of the farmlands of Westfall.

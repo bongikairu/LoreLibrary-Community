@@ -1,6 +1,7 @@
 title=King Terenas' tomb
 x=65.97
 y=44.05
+id=1
 html=no
 -----
 A memorial to king Terenas Menethil II, who was killed by his own son Arthas Menethil.

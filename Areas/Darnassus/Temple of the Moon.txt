@@ -1,6 +1,7 @@
 title=Temple of the Moon
 x=43
 y=76.21
+id=2
 html=no
 -----
 The Temple of the Moon in Darnassus is the dwelling of the Sisters of Elune, and the center of all night elf spiritual life.

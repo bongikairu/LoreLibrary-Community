@@ -1,6 +1,7 @@
 title=The Sanctum
 x=75.77
 y=44.03
+id=6
 html=no
 -----
 The Sanctum is the warlock guild of Silvermoon City.

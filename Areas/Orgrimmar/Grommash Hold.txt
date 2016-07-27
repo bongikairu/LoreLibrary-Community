@@ -1,6 +1,7 @@
 title=Grommash Hold
 x=49.45
 y=74.31
+id=6
 html=no
 -----
 Grommash Hold is an enormous fortress located in the Valley of Strength in the orc capital of Orgrimmar.

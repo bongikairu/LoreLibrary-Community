@@ -1,6 +1,7 @@
 title=Thunder Falls
 x=24.96
 y=58.2
+id=9
 html=no
 -----
 Thunder Falls is a narrow ravine, located in the mountains of north-western Elwynn Forest.

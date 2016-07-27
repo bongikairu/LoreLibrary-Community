@@ -2,6 +2,7 @@ title=SI:7
 x=80.72
 y=61.29
 scale=2
+id=8
 html=no
 -----
 SI:7, which stands for Stormwind Intelligence, is a secretive branch of King Varian's forces. It includes rogues specializing in special operations, espionage, assassination and stealth tactics.

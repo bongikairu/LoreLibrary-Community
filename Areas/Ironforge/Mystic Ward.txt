@@ -2,6 +2,7 @@ title=Mystic Ward
 x=28.73
 y=14.36
 scale=2
+id=5
 html=no
 -----
 The Mystic Ward was established for the study of magic.

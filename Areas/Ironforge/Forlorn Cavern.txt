@@ -2,6 +2,7 @@ title=Forlorn Cavern
 x=47.47
 y=12.13
 scale=2
+id=4
 html=no
 -----
 The Forlorn Cavern is a long, winding road built around Ironforge's underground lake.

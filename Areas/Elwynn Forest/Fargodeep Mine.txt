@@ -1,6 +1,7 @@
 title=Fargodeep Mine
 x=38.12
 y=83.71
+id=4
 html=no
 -----
 The Fargodeep Mine is an abandoned gold mine located in Elwynn Forest, which has been overrun by kobolds.

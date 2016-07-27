@@ -2,6 +2,7 @@ title=Ruins of Auberdine
 x=39.62
 y=40.9
 scale=2
+id=5
 html=no
 -----
 Following the Cataclysm, the Ruins of Auberdine are all that remains of the night elf port town of Auberdine after Deathwing flew over it.

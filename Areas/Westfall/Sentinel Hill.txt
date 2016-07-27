@@ -1,6 +1,7 @@
 title=Sentinel Hill
 x=56.33
 y=47.51
+id=7
 html=no
 -----
 Sentinel Hill has been recently reinforced with the return of Gryan Stoutmantle and the Westfall Brigade from the war in Northrend.

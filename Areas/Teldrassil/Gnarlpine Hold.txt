@@ -1,6 +1,7 @@
 title=Gnarlpine Hold
 x=42.31
 y=69.34
+id=5
 html=no
 -----
 Gnarlpine Hold was formally home to the Gnarlpine furbolgs.

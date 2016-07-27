@@ -1,6 +1,7 @@
 title=Sanctuary of Malorne
 x=26.9
 y=63.01
+id=6
 html=no
 -----
 The Sanctuary of Malorne is an ancient shrine to the demigod Malorne that was destroyed by the invading elementals.

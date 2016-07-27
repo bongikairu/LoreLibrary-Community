@@ -1,6 +1,7 @@
 title=Furlbrow's Pumpkin Farm
 x=49.77
 y=19.81
+id=1
 html=no
 -----
 Furlbrow's Pumpkin Farm (formerly known as Furlbrow's Pumpkin Patch) was one of the many farms in Westfall taken over by the Defias Brotherhood and their mechanical harvesters.

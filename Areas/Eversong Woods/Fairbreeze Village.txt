@@ -1,6 +1,7 @@
 title=Fairbreeze Village
 x=44.34
 y=71.1
+id=6
 html=no
 -----
 Fairbreeze is the place where many young adventurers learn their trades, before venturing forth into Ghostlands and Tranquillien.

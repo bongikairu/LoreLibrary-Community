@@ -1,6 +1,7 @@
 title=Howling Oak
 x=48.86
 y=18
+id=4
 html=no
 -----
 The Howling Oak, located in the night elf capital of Darnassus, is the new home of the Gilnean refugees after the fall of Gilneas.

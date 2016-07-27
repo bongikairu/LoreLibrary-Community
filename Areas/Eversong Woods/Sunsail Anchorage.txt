@@ -2,6 +2,7 @@ title=Sunsail Anchorage
 x=32.79
 y=69.49
 scale=0.5
+id=5
 html=no
 -----
 Sunsail Anchorage is a port located in western Eversong Woods that has been completely taken over by the Wretched.

@@ -1,6 +1,7 @@
 title=Westbrook Garrison
 x=24.42
 y=74.43
+id=3
 html=no
 -----
 Westbrook Garrison is considered by some to be the last bastion of order heading west of Stormwind.

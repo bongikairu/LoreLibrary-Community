@@ -2,6 +2,7 @@ title=Raging Chasm
 x=38.36
 y=42.65
 scale=2
+id=2
 html=no
 -----
 The Raging Chasm is a sinkhole created by the Cataclysm.

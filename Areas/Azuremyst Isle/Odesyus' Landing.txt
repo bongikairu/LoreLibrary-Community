@@ -1,6 +1,7 @@
 title=Odesyus' Landing
 x=46.73
 y=70.3
+id=4
 html=no
 -----
 Odesyus' Landing is a small outpost founded by an Alliance fleet led by Admiral Odesyus.

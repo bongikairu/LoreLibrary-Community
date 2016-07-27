@@ -2,6 +2,7 @@ title=Ruins of Silvermoon
 x=45.44
 y=44.45
 scale=0.5
+id=4
 html=no
 -----
 The area known as the Ruins of Silvermoon makes up the western half of Silvermoon City, the capital city of the blood elves and the former kingdom of Quel'Thalas.

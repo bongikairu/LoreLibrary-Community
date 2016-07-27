@@ -1,6 +1,7 @@
 title=Valley of Wisdom
 x=40.76
 y=47.91
+id=9
 html=no
 -----
 The Valley of Wisdom was once the location of Grommash Hold, where Warchief Thrall once resided in Orgrimmar.

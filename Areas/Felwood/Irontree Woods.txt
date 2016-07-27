@@ -1,6 +1,7 @@
 title=Irontree Woods
 x=48.68
 y=25.2
+id=6
 html=no
 -----
 Irontree Woods, once a peaceful forest glade, has been corrupted like the rest of Felwood by the demonic presence of the Burning Legion.

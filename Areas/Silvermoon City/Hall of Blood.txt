@@ -1,6 +1,7 @@
 title=Hall of Blood
 x=89.78
 y=37.49
+id=2
 html=no
 -----
 The Hall of Blood is the headquarters of the Blood Knights, an order of blood elf paladins serving as the backbone of the Thalassian army.

@@ -1,6 +1,7 @@
 title=Silvermyst Isle
 x=13.4
 y=89.8
+id=2
 html=no
 -----
 Silvermyst Isle used to contain a small Night Elf fishing vilage.

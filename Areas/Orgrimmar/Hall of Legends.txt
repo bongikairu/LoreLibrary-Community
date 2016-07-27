@@ -1,6 +1,7 @@
 title=Hall of Legends
 x=40.27
 y=71.84
+id=5
 html=no
 -----
 The Hall of Legends in Orgrimmar houses the secret armory of the Crimson Ring.

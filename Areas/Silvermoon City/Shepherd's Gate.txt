@@ -1,6 +1,7 @@
 title=Shepherd's Gate
 x=72.4
 y=85.95
+id=7
 html=no
 -----
 The Shepherd's Gate serves as the main entry into Silvermoon from Eversong Woods.

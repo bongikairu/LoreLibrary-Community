@@ -2,6 +2,7 @@ title=Jadefire Run
 x=42.42
 y=18.88
 scale=2
+id=5
 html=no
 -----
 Jadefire Run was home of the most powerful satyr in Felwood.

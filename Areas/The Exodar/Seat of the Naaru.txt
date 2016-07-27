@@ -1,6 +1,7 @@
 title=Seat of the Naaru
 x=54.73
 y=49.05
+id=4
 html=no
 -----
 The Seat of the Naaru is the central section of the Exodar where O'ros, a naaru, resides down on the lower levels.

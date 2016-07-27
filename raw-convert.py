@@ -1,12 +1,13 @@
+#!/bin/python3
+# encoding: utf-8
+
 import os
-import sys
 import re
 from functools import cmp_to_key
-
-# LDFLAGS="-L/usr/local/bin/lua" python3 -m pip install lupa==1.3 --no-binary :all:
 import lupa
 from lupa import LuaRuntime
 
+# LDFLAGS="-L/usr/local/bin/lua" python3 -m pip install lupa==1.3 --no-binary :all:
 lua = LuaRuntime()
 
 
@@ -50,7 +51,7 @@ def ini_sort(o1, o2):
 
 if __name__ == '__main__':
 
-    area_dir = './Areas-Raw/'
+    area_dir = './Areas-RawLua/'
     output_dir = './Areas/'
 
     file_list = os.listdir(area_dir)
@@ -58,6 +59,7 @@ if __name__ == '__main__':
         if file[0] != '_':
             print('Processing %s' % file)
             zone_name, ext = os.path.splitext(file)
+            area_i = 1
             with open(area_dir + file, 'r', encoding='utf-8') as file_data:
                 for line in file_data.readlines():
                     line_cleaned = line.strip()
@@ -80,12 +82,14 @@ if __name__ == '__main__':
                                     for key, value in data_list:
                                         if key != 'lore':
                                             output_file_data.write('%s=%s\n' % (key, value))
+                                    output_file_data.write('id=%s\n' % area_i)
                                     if '<HTML>' in data.lore:
                                         output_file_data.write('html=yes\n')
                                     else:
                                         output_file_data.write('html=no\n')
                                     output_file_data.write('-----\n')
                                     output_file_data.write(format_lore(data.lore))
+                                area_i += 1
                         except lupa.LuaSyntaxError:
                             continue
 
@@ -93,6 +97,6 @@ if __name__ == '__main__':
             zone_file_name = output_dir + zone_name + '/zone.ini'
             if not os.path.exists(zone_file_name):
                 with open(zone_file_name, 'w', encoding='utf-8') as zone_file_data:
-                    zone_file_data.write("id=\ncontinent=\nname=%s\npointIds=\nenabled=\n" % zone_name)
+                    zone_file_data.write("id=\ncontinent=\nname=%s\nenabled=no\n" % zone_name)
             print("File Done")
     print("All Done")
