@@ -1,0 +1,6 @@
+title=Lower Rise
+x=43.18
+y=57.17
+html=no
+-----
+The Lower Rise is Thunder Bluff's main hub of trade.

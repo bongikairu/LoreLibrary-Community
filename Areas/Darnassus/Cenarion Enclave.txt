@@ -1,0 +1,7 @@
+title=Cenarion Enclave
+x=41.57
+y=32.38
+html=no
+-----
+The Cenarion Enclave is a magical place which the druids of Darnassus call home.
+Archdruid Fandral Staghelm formerly led his followers and kin from the boughs of the Enclave, until Malfurion returned from the Emerald Dream.

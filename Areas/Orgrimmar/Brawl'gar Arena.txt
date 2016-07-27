@@ -1,0 +1,8 @@
+title=Brawl'gar Arena
+x=70.34
+y=31.48
+html=no
+-----
+In the Brawl'gar Arena creatures and fighters from all over Azeroth and Outland have been gathered to participate in bloody arena deathmatches with heroes of the Horde.
+
+The building housing the arena is also known as the Ring of Valor, notable for being the site of a duel between Thrall and Garrosh Hellscream during the Scourge Invasion.

@@ -1,0 +1,11 @@
+title=Silvermoon
+x=56.66
+y=50.24
+scale=0.5
+html=no
+-----
+The crown jewel of the blood elves is their capital of Silvermoon City, nestled in the Eversong Woods in their ancestral lands of Quel'Thalas.
+At the northernmost tip of the Eastern Kingdoms the beauty of the spires and thoroughfares of Silvermoon stand in stark contrast to the Dead Scar, the tainted path that Arthas tore through the city in his quest for power.
+Though nearly destroyed by Arthas' attack on the Sunwell, Silvermoon is once again a thriving city.
+
+Most recently, the rebirth of the Sunwell has lifted spirits among the elves, and they have continued to heal Silvermoon's scars in the hopes of returning their beloved capital to its former glory.

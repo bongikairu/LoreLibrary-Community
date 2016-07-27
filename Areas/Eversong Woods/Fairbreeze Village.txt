@@ -1,0 +1,8 @@
+title=Fairbreeze Village
+x=44.34
+y=71.1
+html=no
+-----
+Fairbreeze is the place where many young adventurers learn their trades, before venturing forth into Ghostlands and Tranquillien.
+
+When the Scourge attacked Quel'Thalas during the Third War, Sylvanas Windrunner retreated to the village and it was near here when she was killed and risen as an undead by Arthas.

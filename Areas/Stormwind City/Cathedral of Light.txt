@@ -1,0 +1,9 @@
+title=Cathedral of Light
+x=53.16
+y=51.5
+scale=2
+html=no
+-----
+The Cathedral is home to some of the most powerful and influential holy leaders in the world.
+Duthorian Rall is perhaps Stormwind City's most accomplished paladin.
+The archbishop himself also resides within the hallowed chambers.

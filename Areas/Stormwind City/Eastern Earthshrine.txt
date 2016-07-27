@@ -1,0 +1,8 @@
+title=Eastern Earthshrine
+x=74.38
+y=18.42
+scale=2
+html=no
+-----
+The Eastern Earthshrine is a ritual circle erected by the Earthen Ring for use by the Alliance.
+The Earthshrine provides portals to Mount Hyjal, Vashj'ir, Deepholm, Uldum, Twilight Highlands and Tol Barad.

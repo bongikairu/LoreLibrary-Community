@@ -1,0 +1,6 @@
+title=Hunter Rise
+x=58.24
+y=78.21
+html=no
+-----
+Warriors and hunters travel here from all across the land to sharpen their skills and further their training. Like elves, tauren tend to prefer bows and other simple weapons to rifles.

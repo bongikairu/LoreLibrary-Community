@@ -1,0 +1,9 @@
+title=Eye of the Vortex
+x=43.72
+y=53.53
+html=no
+-----
+The Eye of The Vortex is the epicenter of the massive storm threatening to tear apart Darkshore.
+The land has twisted up into a hill, the top of which holds a massive vortex which can be seen across the zone.
+Twilight's Hammer agents fly near the top of the vortex, keeping the storm from dissipating.
+Malfurion Stormrage is attempting to stabilize it so that it doesn't destroy the region.

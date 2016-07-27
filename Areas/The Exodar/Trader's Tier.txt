@@ -1,0 +1,6 @@
+title=Trader's Tier
+x=58.61
+y=70.21
+html=no
+-----
+As the name implies, the Trader's Tier is where most of trade in Exodar takes place

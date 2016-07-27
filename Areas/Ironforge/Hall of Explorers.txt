@@ -1,0 +1,9 @@
+title=Hall of Explorers
+x=68.33
+y=20.06
+scale=2
+html=no
+-----
+The Hall of Explorers is home to the famed Ironforge Explorers' Guild (aka Explorer's League).
+Every archaeological expedition the Alliance sends out is coordinated from here.
+It also houses the the Library which houses a museum ran by Curator Thorius.

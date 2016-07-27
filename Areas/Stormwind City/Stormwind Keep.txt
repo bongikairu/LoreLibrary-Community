@@ -1,0 +1,8 @@
+title=Stormwind Keep
+x=84.99
+y=32.71
+scale=2
+html=no
+-----
+The mighty Stormwind Keep is the seat of power of the human kingdom of Stormwind.
+The residence of King Varian Wrynn and his son Anduin, the keep also houses the extensive Royal Library where nobles and scholars from across the known world research various topics.

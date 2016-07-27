@@ -1,0 +1,8 @@
+title=Shatter Scar Vale
+x=43.74
+y=40.4
+scale=3
+html=no
+-----
+Shatter Scar Vale is where many of the demonic infernals fell to Azeroth during the invasion of the Burning Legion during the Third War.
+Still-smoldering craters dot the vale, and demons still wander the scarred landscape.

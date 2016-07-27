@@ -1,0 +1,11 @@
+title=Stormrage Barrow Dens
+x=68.03
+y=60.26
+scale=4
+html=no
+-----
+The Stormrage Barrow Dens are the sacred Barrow Dens of Moonglade where many of the Night Elf Druids slumber in the Emerald Dream.
+The great druid Malfurion Stormrage, for whom the Barrow Dens are named, used to slumber deep within the dens.
+
+During the Third War, Malfurion was awakened by Tyrande to help fight Archimonde's forces.
+He was sleeping in his Barrow Den and was almost destroyed by the Dreadlord Tichondrius' forces.

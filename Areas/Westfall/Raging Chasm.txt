@@ -1,0 +1,9 @@
+title=Raging Chasm
+x=38.36
+y=42.65
+scale=2
+html=no
+-----
+The Raging Chasm is a sinkhole created by the Cataclysm.
+What exactly happened to cause it, is still unknown.
+Because of the rocks and trees flying around what appears to be a pillar of air, one could assume it is caused by angry Air Elementals.

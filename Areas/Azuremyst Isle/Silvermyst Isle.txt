@@ -1,0 +1,7 @@
+title=Silvermyst Isle
+x=13.4
+y=89.8
+html=no
+-----
+Silvermyst Isle used to contain a small Night Elf fishing vilage.
+The crashing of the Exodar dropped crystalline shards on the island that drove the moonkin mad, causing them to rampage over the village, killing most of the inhabitants.

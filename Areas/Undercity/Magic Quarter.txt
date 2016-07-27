@@ -1,0 +1,6 @@
+title=Magic Quarter
+x=81.04
+y=21.85
+html=no
+-----
+Magic Quarter is where the most arcane-inclined of the Forsaken come to research, learn new spells, and practice their arts, under the watchful eye of Bethor Iceshard.

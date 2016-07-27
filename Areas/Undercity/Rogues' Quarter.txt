@@ -1,0 +1,6 @@
+title=Rogues' Quarter
+x=81.38
+y=67.46
+html=no
+-----
+The Rogues' Quarter is home to many of the Forsaken's more shady characters and the rogues' guild.

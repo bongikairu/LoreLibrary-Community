@@ -1,0 +1,8 @@
+title=Duskwither Spire
+x=68.92
+y=51.97
+scale=0.5
+html=no
+-----
+Duskwither Spire is a floating tower located in northeastern Eversong Woods.
+It was once a magical academy run by Magister Duskwither, but fell into disrepair after the magister began looking into ill-fated ways to solve his race's addiction to magic.

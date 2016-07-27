@@ -1,0 +1,8 @@
+title=Bazaar
+x=61.18
+y=70.69
+html=no
+-----
+The Bazaar is Silvermoon's main hub of trade.
+
+Nearby, two speakers adress the concerns af a gathering of concernd blood elves.

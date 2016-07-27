@@ -1,0 +1,6 @@
+title=Nighthaven
+x=48.43
+y=38
+scale=5
+html=no
+-----

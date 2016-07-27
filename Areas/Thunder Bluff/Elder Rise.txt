@@ -1,0 +1,6 @@
+title=Elder Rise
+x=71.74
+y=30.25
+html=no
+-----
+Elder Rise holds the governing Council of Elders and also members of the Cenarion Circle.

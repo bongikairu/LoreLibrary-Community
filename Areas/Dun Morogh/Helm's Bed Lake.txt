@@ -1,0 +1,8 @@
+title=Helm's Bed Lake
+x=83.98
+y=51.93
+html=no
+-----
+Helm's Bed Lake is a smallish lake in southeastern Dun Morogh.
+Although the lake has mostly frozen over, a hole in the ice is maintained at all times in order to provide access to fresh water.
+Since the Cataclysm, angry water elementals have taken control over the lake.

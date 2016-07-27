@@ -1,0 +1,6 @@
+title=Wrathscale Lair
+x=68.84
+y=68.04
+scale=2
+html=no
+-----

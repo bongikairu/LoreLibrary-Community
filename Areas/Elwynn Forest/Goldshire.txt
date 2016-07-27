@@ -1,0 +1,6 @@
+title=Goldshire
+x=42.4
+y=65.67
+html=no
+-----
+Goldshire, along with Moonbrook, was taken in preparation of the Horde's sack of Stormwind Keep during the First Great War.

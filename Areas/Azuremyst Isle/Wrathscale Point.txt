@@ -1,0 +1,6 @@
+title=Wrathscale Point
+x=29.61
+y=79.2
+scale=3
+html=no
+-----

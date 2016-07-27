@@ -1,0 +1,8 @@
+title=Axxarien
+x=40.73
+y=34.16
+scale=2
+html=no
+-----
+Axxarien is a Satyr outpost led by their leader, Zevrax.
+The sect is trying to use the crystalline shards from the Exodar's crash, which corrupted the area, as weapons.
